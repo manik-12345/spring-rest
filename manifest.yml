@@ -1,0 +1,7 @@
+---
+applications:
+  - name: springrest
+    path: target/SpringRest.jar
+    domain: cfapps.io
+    memory: 640m
+    instances: 1
